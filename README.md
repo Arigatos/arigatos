@@ -44,7 +44,7 @@ Building modern, scalable web applications with Next.js.
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arigatos&theme=tokyo-night)
 
 ---
 
