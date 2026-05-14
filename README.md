@@ -32,18 +32,6 @@ Building modern, scalable web applications with Next.js.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=arigatos&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arigatos&theme=tokyo-night)
-
----
-
 ## 🎯 Current Focus
 - Building AI-driven web applications
 - Scaling personal SaaS projects
